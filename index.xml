@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://yiwen0612.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Sep 2020 21:40:27 -0400</lastBuildDate><atom:link href="https://yiwen0612.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://yiwen0612.github.io/post/blog/</link>
+      <pubDate>Wed, 16 Sep 2020 21:40:27 -0400</pubDate>
+      
+      <guid>https://yiwen0612.github.io/post/blog/</guid>
+      <description>Yiwen (Vivian) Wu Computer Engineering | University of Waterloo | Student No.20777081 Personal Web: vivi-wu.com Email Address: y657wu@uwaterloo.ca Phone Number: 647-673-5665  SKILLS ————————————————————————————————————————————————— •	Web service and data transfer: Json, XML, REST. •	Database and reporting: SQL Server 2014 •	Developing: C#, C++, ASP.net, ADO.NET, MVC, Entity frameworks, Razor, Webforms •	Front end: HTML 5, JavaScript, jQuery libraries, jqxWidgets, Angular •	System database integration: SAPB1, Acumatica, Sage 300, Oracle NetSuite  WORK EXPERIENCE ————————————————————————————————————————————————— Software Developer	January 2020- April 2020 Edisoft Inc.</description>
+    </item>
+    
+  </channel>
+</rss>
